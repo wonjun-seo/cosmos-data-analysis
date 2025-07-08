@@ -26,6 +26,8 @@ project/
 - `environment.yml`: Defines the Conda environment with required dependencies.
 - `README.md`: Provides an overview and documentation for the project.
 
+There is additional directory `git exercise`. This directory is only for Git exercise. Please remove this folder after doing [Git Exercise](#-git-exercise)
+
 ## Instructions
 #### Fork
 Only one group member should do these steps.
@@ -44,3 +46,15 @@ All the group members should do these steps.
 5. Type `git clone <URL>` and press enter. (Press `Cmd + V` or `Ctrl+V` to paste the URL)
 
 After this, there should be two directories on your Desktop (or anywhere you want). Note that `cosmos` directory is for class activity, and this directory is for your project.
+
+## Git Exercise
+1. In the `git exercise` folder, you will find two `ipynb` files, each containing a bug.
+2. Your group will split into two subgroups, and each subgroup will be responsible for debugging one notebook.
+3. Each subgroup should:
+    - Create a new branch with a relevant name.
+    - Make changes only within that branch to fix the assigned bug.
+    - Commit and push the changes to the branch you working on.
+    - Open a Pull Request (PR) to merge the branch into main.
+4. Once both subgroups have submitted their Pull Requests:
+    - Each subgroup should review the other subgroup’s PR.
+    - If the fix looks correct, approve and merge the branch into main.
