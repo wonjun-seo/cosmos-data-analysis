@@ -58,3 +58,4 @@ After this, there should be two directories on your Desktop (or anywhere you wan
 4. Once both subgroups have submitted their Pull Requests:
     - Each subgroup should review the other subgroup’s PR.
     - If the fix looks correct, approve and merge the branch into main.
+5. After finishing this activity, please remove `git exercise` directory on `main` branch.
