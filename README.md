@@ -44,10 +44,12 @@ All the group members should do these steps.
 3. Click the green "Code" button and copy the HTTPS URL.
 4. Open terminal and type `cd Desktop` and press enter.
 5. Type `git clone <URL>` and press enter. (Press `Cmd + V` or `Ctrl+V` to paste the URL)
+6. Open VS code and open folder you just created.
 
 After this, there should be two directories on your Desktop (or anywhere you want). Note that `cosmos` directory is for class activity, and this directory is for your project.
 
 ## Git Exercise
+0. Before this exercise, install **Github Pull Request** extension on VS Code.
 1. In the `git exercise` folder, you will find two `ipynb` files, each containing a bug.
 2. Your group will split into two subgroups, and each subgroup will be responsible for debugging one notebook.
 3. Each subgroup should:
