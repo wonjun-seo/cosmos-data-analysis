@@ -26,7 +26,7 @@ project/
 - `environment.yml`: Defines the Conda environment with required dependencies.
 - `README.md`: Provides an overview and documentation for the project.
 
-There is additional directory `git exercise`. This directory is only for Git exercise. Please remove this folder after doing [Git Exercise](#-git-exercise)
+There is additional directory `git exercise`. This directory is only for Git exercise. Please remove this folder after doing [Git Exercise](#git-exercise)
 
 ## Instructions
 #### Fork
