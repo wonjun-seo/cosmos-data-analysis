@@ -32,10 +32,9 @@ There is additional directory `git exercise`. This directory is only for Git exe
 #### Fork
 Only one group member should do these steps.
 1. Sign in with **group** Github account.
-2. Click the "Fork" button (top-right).
-3. Choose the **group** Github account as the owner.
-4. Name your repository (e.g. `TheOptimizer`) and set it to **Private**.
-5. Go to **Settings**->**Collaborators**, and add other team members.
+2. Click the "Use this template" button (top-right) and create a new repository.
+3. Name your repository (e.g. `TheOptimizer`) and set it to **Private**.
+4. Go to **Settings**->**Collaborators**, and add other team members.
 
 #### Clone
 All the group members should do these steps.
